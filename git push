@@ -1,0 +1,155 @@
+[33mcommit b0a401503c077e801f6c8b2ec11d8c671a590799[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Alejandro Cervantes <acervantesnass00@mylangara.ca>
+Date:   Fri Nov 25 22:30:04 2022 -0800
+
+    commiting again
+
+[33mcommit dbd533125dbd587c5300ba0173ad79b37fbd5b7e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Sat Nov 26 01:41:37 2022 +0000
+
+    Sources
+
+[33mcommit 6965522c2adf1fb305f668431531be74a11822bd[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Sat Nov 26 01:40:24 2022 +0000
+
+    Sources
+
+[33mcommit 0713f9dd64b7c942263aae4a5e1c32ada63660ce[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Sat Nov 26 01:10:40 2022 +0000
+
+    Keywords and API
+
+[33mcommit 2439f1b328fa6cdd3f4ce4934734ebbfcd085a4f[m
+Author: Bruno Schwartz <bschwartztineo00@mylangara.ca>
+Date:   Fri Nov 25 16:25:36 2022 -0800
+
+    Actor/actress Oscar awards
+
+[33mcommit 387fe41c2dbb8d281cd51327b5a7504a257c82c0[m
+Author: Alejandro Cervantes <acervantesnass00@mylangara.ca>
+Date:   Fri Nov 25 15:54:17 2022 -0800
+
+    fixing PERFORMER and NUMBER_OF_MOVIES on DF COUNTS
+
+[33mcommit 6be15e5c97e3e406899f234fbb8127dcee80cb74[m
+Author: Bruno Schwartz <bschwartztineo00@mylangara.ca>
+Date:   Fri Nov 25 14:08:01 2022 -0800
+
+    Reading actors and actresses Oscar winners
+
+[33mcommit e135f524dd80eac566c28a1d8f0eca9c6327110e[m
+Author: Bruno Schwartz <bschwartztineo00@mylangara.ca>
+Date:   Fri Nov 25 11:58:48 2022 -0800
+
+    Adding descriptions
+
+[33mcommit 5ffafe221c566490ff403e78f02817aadbe7d56f[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 25 15:28:11 2022 +0000
+
+    Description
+
+[33mcommit 31e9399db9cb36dd2ce302359ba8c304f85b5c98[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 25 14:40:23 2022 +0000
+
+    Readme with rubric
+
+[33mcommit 6483dc3e26b87913de158873008bcd8322a090a2[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 25 14:31:30 2022 +0000
+
+    Readme with rubric
+
+[33mcommit 6952e1502542acf82665565950fdaf218c81c55f[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Thu Nov 24 20:18:37 2022 +0000
+
+    Adding title 'get academy awards'
+
+[33mcommit bf4ce673da10cc2140f79c0bfa34b1fdeee5fdda[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Thu Nov 24 15:08:58 2022 +0000
+
+    Getting data from wikipedia
+
+[33mcommit 8ad9e4ae8ec58a5a6796344049cf04b0566ede71[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Thu Nov 24 15:00:11 2022 +0000
+
+    Getting data from wikipedia
+
+[33mcommit 299f84ffa8014a4533d0754dc2bcad95712e62e9[m
+Author: Bruno Schwartz <bschwartztineo00@mylangara.ca>
+Date:   Wed Nov 23 18:13:46 2022 -0800
+
+    More changes to the movie datafile
+
+[33mcommit d76f2d6c17888ed8bfc364d00b1b20304e298a59[m
+Author: Bruno Schwartz <bschwartztineo00@mylangara.ca>
+Date:   Tue Nov 22 10:15:41 2022 -0800
+
+    Adjusting movie dataset
+
+[33mcommit 40a00e5a6a66601a9050ab3bbb73bc465c214f00[m
+Author: Alejandro Cervantes <acervantesnass00@mylangara.ca>
+Date:   Mon Nov 21 16:08:18 2022 -0800
+
+    Alex's commit
+
+[33mcommit a574794537726474b6ea75651babdb0e7fdee126[m
+Author: Bruno Schwartz <bschwartztineo00@mylangara.ca>
+Date:   Sun Nov 20 22:41:08 2022 -0800
+
+    Working with the column belongs_to_collection in movies
+
+[33mcommit e2a5b7840b88764e43543faa0d0396209989bf71[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Sat Nov 19 20:01:54 2022 +0000
+
+    Removing long prints
+
+[33mcommit 5f78bd6d85f76aae1dc21c9f04347299f541332a[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Sat Nov 19 19:41:49 2022 +0000
+
+    Performers
+
+[33mcommit d20af5e9aa5ff582c342a6b7225871700600c758[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 18 23:48:32 2022 +0000
+
+    structure
+
+[33mcommit 69dadcb60190400d878c1128b43f492c17a64b1c[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 18 23:40:32 2022 +0000
+
+    Datasets
+
+[33mcommit 7c23c43070bcb09a2db6901960d8f5c03dc02f88[m
+Author: cperezmendoza00 <105893405+cperezmendoza00@users.noreply.github.com>
+Date:   Fri Nov 18 14:32:12 2022 -0800
+
+    readme
+
+[33mcommit 4c218436d88fe9691a97e797b06474bb2694e732[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 18 22:31:01 2022 +0000
+
+    structure
+
+[33mcommit 69ef87261bd21d5fa2fd35cc6c3ac691fb836459[m
+Author: cadukeson <cadukeson@gmail.com>
+Date:   Fri Nov 18 22:28:53 2022 +0000
+
+    structure
+
+[33mcommit 43f7ff4e7193184aea5f03e1d75bed24b3fc961a[m
+Author: cperezmendoza00 <105893405+cperezmendoza00@users.noreply.github.com>
+Date:   Fri Nov 18 14:04:37 2022 -0800
+
+    Initial commit
